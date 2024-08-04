@@ -20,5 +20,8 @@ I'm a Berlin based web developer. Recently I've turned my love for creative desi
 ![Git](https://img.shields.io/badge/Git-09131B?style=for-the-badge&logo=git)
 ![Vercel](https://img.shields.io/badge/Vercel-09131B?style=for-the-badge&logo=Vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-09131B?style=for-the-badge&logo=Render&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-09131B?style=for-the-badge&logo=Adobe%20Photoshop)
+![Figma](https://img.shields.io/badge/Figma-09131B?style=for-the-badge&logo=Figma)
+![Blender](https://img.shields.io/badge/Blender-09131B?style=for-the-badge&logo=Blender)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nostea&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
