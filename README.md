@@ -21,4 +21,4 @@ I'm a Berlin based web developer. Recently I've turned my love for creative desi
 ![Vercel](https://img.shields.io/badge/Vercel-09131B?style=for-the-badge&logo=Vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-09131B?style=for-the-badge&logo=Render&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nostea&layout=donut?theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nostea&layout=donut-horizontal)](https://github.com/anuraghazra/github-readme-stats)
