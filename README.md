@@ -1,6 +1,6 @@
 ### Hi there, I'm Anna! 👋
 
-I'm a Berlin based web developer. Recently I've turned my love for creative design and problem solving into a career as a frontend developer.
+I'm a Berlin based web developer. Recently I've turned my love for creative design and problem solving into a career as a fullstack web developer.
 
 ### Tech Stack
 
