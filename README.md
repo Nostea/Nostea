@@ -1,6 +1,10 @@
 ### Hi there, I'm Anna! 👋
 
-I'm a Berlin based web developer. Recently I've turned my love for creative design and problem solving into a career as a fullstack web developer.
+I'm a Berlin based web developer. Recently I've turned my love for creative design and problem solving into a career as a web developer.
+
+[My Website](https://www.annagofman.de)
+
+🧠 I'm currently learning Next.js and CMS.
 
 ### Tech Stack
 
