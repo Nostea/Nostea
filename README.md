@@ -4,7 +4,7 @@ I'm a Berlin based web developer. Recently I've turned my love for creative desi
 
 [My Website](https://www.annagofman.de)
 
-🧠 I'm currently learning Next.js automated testing eith Cypress and CMS.
+🧠 I'm currently learning Next.js, automated testing with Cypress and CMS.
 
 ### Tech Stack
 
